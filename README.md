@@ -9,6 +9,7 @@
 * [Vysvětlení regrese a souvisejících pojmů](https://www.youtube.com/watch?v=aq8VU5KLmkY&ab_channel=zedstatistics)
 * [Rozdíl mezi regresí a klasifikací](https://www.youtube.com/watch?v=i04Pfrb71vk&ab_channel=Udacity)
 * [Kdy použít regresi a kdy klasifikaci](https://www.youtube.com/watch?v=7vkkASg2xDk&ab_channel=OscarAlsing)
+* [houstonthenerd.com - pár tutoriálů na regresi](http://houstonthenerd.com/category/tutorials/)
 
 ### Autoři
 * [Martin Vlach](mailto:xvlach@mendelu.cz)
