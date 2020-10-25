@@ -24,12 +24,12 @@
 * **Praktický příklad(y) 2** - Martin (45-50 minut)
 
 ### Knihovny
-[scikit-learn](https://scikit-learn.org/stable/)
-[numpy](https://numpy.org/)
-[pandas](https://pandas.pydata.org/)
-[scipy](https://www.scipy.org/)
-[matplotlib](https://matplotlib.org/)
-[tensorflow](https://www.tensorflow.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
+* [numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [scipy](https://www.scipy.org/)
+* [matplotlib](https://matplotlib.org/)
+* [tensorflow](https://www.tensorflow.org/)
 
 ### Zdroje
 * [Crash course Python & AI/ML](https://www.youtube.com/watch?v=WFr2WgN9_xE&ab_channel=TechWithTim)
