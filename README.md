@@ -3,7 +3,7 @@
 * Obvykle spadá do kategorie učení s učitelem.
 * Základní typy
   - Lineální regrese
-  - Logická regrese
+  - logistická regrese
   - Vícenásobná regrese
   - Nelineární regrese
 
@@ -33,8 +33,8 @@
 
 ### Zdroje
 * [Crash course Python & AI/ML](https://www.youtube.com/watch?v=WFr2WgN9_xE&ab_channel=TechWithTim)
-* [Lineární vs logická regrese článek](https://medium.com/@nicho.santo3/machine-learning-basics-linear-regression-vs-logistic-regression-c770b2b79c72)
-* [Lineární vs logická regrese video](https://www.youtube.com/watch?v=OCwZyYH14uw&ab_channel=edureka%21)
+* [Lineární vs logistická regrese článek](https://medium.com/@nicho.santo3/machine-learning-basics-linear-regression-vs-logistic-regression-c770b2b79c72)
+* [Lineární vs logistická regrese video](https://www.youtube.com/watch?v=OCwZyYH14uw&ab_channel=edureka%21)
 * [Lineární model - Regrese](https://www.youtube.com/watch?v=WWqE7YHR4Jc&t=21s&ab_channel=CrashCourse)
 * [Lineární model - Anova](https://www.youtube.com/watch?v=oOuu8IBd-yo&ab_channel=CrashCourse)
 * [Vysvětlení regrese a souvisejících pojmů](https://www.youtube.com/watch?v=aq8VU5KLmkY&ab_channel=zedstatistics)
