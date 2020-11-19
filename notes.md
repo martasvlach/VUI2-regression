@@ -1,8 +1,8 @@
-####Představení
+#### Představení
 *Říci jakým tématem se budeme zabývat + něco, že se to nebudeme snažit uspat matematikou v pozadí, ale představit věci na co je to možné použít, na co se to hodí etc.*
 ***
 
-####Regrese v různých vědních odvětvích
+#### Regrese v různých vědních odvětvích
 *Uvést širší kontext, zmínit že regrese se objevuje srkze mnoho vědních oborů a uvést následující příklady.*
 
 - **Lékařství** - Stav kdy nemoc začíná usputovat z jejích nejtěžšího průběhu do mírnějších projevů.
@@ -23,4 +23,13 @@ Příkladem komplexnější regresivní analýzy je využití v lékařství či
 
 *Přejít k více formálnější definici*
 
-##### Dle čeho se regresivní analýzy (funkce)
+##### Dělení regresivních modelů
+Podle počtu nezávisle proměnných rozlišujeme modely jednoduché regrese a vícenásobné regrese. Jednoduchá regrese popisuje závislost vysvětlované proměnné na jednom regresoru. Naproti tomu vícenásobná regrese řeší situaci, kde závisle proměnná závisí na více než jednom regresoru.
+
+#### Lineární regrese 
+##### Příklad
+Pearsonův korelačního koeficient
+* nabývá hodnoty 0 – 1 pro kladnou korelaci, 0 – (-1) pro
+zápornou korelaci
+* hodnota 0 znamená, že mezi posuzovanými veličinami není žádný lineární vztah (může být nelineární) nebo tento vztah zůstal na základě dat, které máme k dispozici, neprokázán
+* hodnota 1 nebo (-1) indikuje funkční závislost (lineární)
