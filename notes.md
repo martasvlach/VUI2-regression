@@ -19,7 +19,7 @@
 
 Regresivní analýzu používáme na denní bázi i běžném životě, aniž by jsme si to přímo uvědomovali. Typickou jednoduchou podobou je rozhodování na základě předchozích zkušeností v dané problematice, či predikce vývoje počasí v následujících 30 minutách na základě shlédnutí předpovědi počasí v televizi a aktuálním pohledem na oblohu.
 
-Příkladem komplexnější regresivní analýzy je využití v lékařství či pojišťovnictví. Takovým příkladem je například výpočet výše životního pojištění dle zjištěných údajů od uchazeče o pojištění na základě přechozích dat od jiných klientů (informace zda je kuřák, rodinná anamnéza, povolání, a mnohé další..)
+Příkladem komplexnější regresivní analýzy je využití v lékařství či pojišťovnictví. Takovým příkladem je například výpočet výše životního pojištění dle zjištěných údajů od uchazeče o pojištění na základě přechozích dat od jiných klientů (informace zda je kuřák, rodinná anamnéza, povolání, a mnohé další..). Další široké uplatnění je napříklaad v oboru financí (predikce vývoje měny)
 
 *Přejít k více formálnější definici*
 
